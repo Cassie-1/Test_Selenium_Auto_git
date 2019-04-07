@@ -1,0 +1,186 @@
+2019-03-22 20:52:19,256 -BrowserEngine -INFO -读取浏览器成功
+2019-03-22 20:52:19,260 -BrowserEngine -INFO -找到URL:http://127.0.0.1/forum.php
+2019-03-22 20:52:22,529 -BrowserEngine -INFO -浏览器为谷歌
+2019-03-22 20:52:23,224 -BrowserEngine -INFO -打开浏览器http://127.0.0.1/forum.php
+2019-03-22 20:52:24,393 -BasePage -INFO -找到页面元素
+2019-03-22 20:52:24,440 -BasePage -INFO -清除文本框成功
+2019-03-22 20:52:24,497 -BasePage -INFO -找到页面元素
+2019-03-22 20:52:24,577 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 20:52:24,616 -BasePage -INFO -找到页面元素
+2019-03-22 20:52:24,650 -BasePage -INFO -清除文本框成功
+2019-03-22 20:52:24,669 -BasePage -INFO -找到页面元素
+2019-03-22 20:52:24,728 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 20:52:24,761 -BasePage -INFO -找到页面元素
+2019-03-22 20:52:24,822 -BasePage -INFO -点击操作成功
+2019-03-22 20:52:26,616 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:52:38,168 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 20:52:38,495 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:52:38,495 -BasePage -ERROR -点击操作失败：'NoneType' object has no attribute 'click'
+2019-03-22 20:52:38,849 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:52:50,420 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 20:52:50,790 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:52:50,790 -BasePage -ERROR -点击操作失败：'NoneType' object has no attribute 'click'
+2019-03-22 20:52:51,179 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:53:03,701 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 20:53:04,145 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:53:04,145 -BasePage -ERROR -点击操作失败：'NoneType' object has no attribute 'click'
+2019-03-22 20:53:04,468 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:53:04,802 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:53:18,335 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 20:53:18,664 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:53:18,664 -BasePage -ERROR -文本框写入文本失败：'NoneType' object has no attribute 'send_keys'
+2019-03-22 20:53:18,999 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:53:30,504 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 20:53:30,830 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:53:30,830 -BasePage -ERROR -点击操作失败：'NoneType' object has no attribute 'click'
+2019-03-22 20:53:31,165 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:53:32,288 -BasePage -INFO -切换窗口成功
+2019-03-22 20:53:35,316 -BrowserEngine -INFO -现在关闭浏览器
+2019-03-22 20:53:37,792 -BrowserEngine -INFO -读取浏览器成功
+2019-03-22 20:53:37,792 -BrowserEngine -INFO -找到URL:http://127.0.0.1/forum.php
+2019-03-22 20:53:40,117 -BrowserEngine -INFO -浏览器为谷歌
+2019-03-22 20:53:40,832 -BrowserEngine -INFO -打开浏览器http://127.0.0.1/forum.php
+2019-03-22 20:53:42,002 -BasePage -INFO -找到页面元素
+2019-03-22 20:53:42,053 -BasePage -INFO -清除文本框成功
+2019-03-22 20:53:42,112 -BasePage -INFO -找到页面元素
+2019-03-22 20:53:42,189 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 20:53:42,228 -BasePage -INFO -找到页面元素
+2019-03-22 20:53:42,262 -BasePage -INFO -清除文本框成功
+2019-03-22 20:53:42,281 -BasePage -INFO -找到页面元素
+2019-03-22 20:53:42,343 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 20:53:42,380 -BasePage -INFO -找到页面元素
+2019-03-22 20:53:42,441 -BasePage -INFO -点击操作成功
+2019-03-22 20:53:43,115 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:53:43,158 -BasePage -INFO -找到页面元素
+2019-03-22 20:53:43,219 -BasePage -INFO -清除文本框成功
+2019-03-22 20:53:45,237 -BasePage -INFO -找到页面元素
+2019-03-22 20:53:45,324 -BasePage -INFO -文本框成功写入文本：haotest
+2019-03-22 20:53:47,355 -BasePage -INFO -找到页面元素
+2019-03-22 20:53:47,445 -BasePage -INFO -点击操作成功
+2019-03-22 20:53:47,879 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:53:49,894 -BasePage -INFO -切换窗口成功
+2019-03-22 20:53:51,949 -BasePage -INFO -找到页面元素
+2019-03-22 20:53:52,042 -BasePage -INFO -点击操作成功
+2019-03-22 20:53:52,446 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:53:53,461 -BasePage -INFO -切换窗口成功
+2019-03-22 20:53:57,104 -BasePage -INFO -找到页面元素
+2019-03-22 20:53:57,207 -BasePage -INFO -得到文本内容：haotest
+2019-03-22 20:53:57,577 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:53:58,627 -BasePage -INFO -找到页面元素
+2019-03-22 20:53:58,896 -BasePage -INFO -点击操作成功
+2019-03-22 20:53:59,261 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:54:02,261 -BrowserEngine -INFO -现在关闭浏览器
+2019-03-22 20:54:04,503 -BrowserEngine -INFO -读取浏览器成功
+2019-03-22 20:54:04,503 -BrowserEngine -INFO -找到URL:http://127.0.0.1/forum.php
+2019-03-22 20:54:06,831 -BrowserEngine -INFO -浏览器为谷歌
+2019-03-22 20:54:07,336 -BrowserEngine -INFO -打开浏览器http://127.0.0.1/forum.php
+2019-03-22 20:54:08,502 -BasePage -INFO -找到页面元素
+2019-03-22 20:54:08,556 -BasePage -INFO -清除文本框成功
+2019-03-22 20:54:08,607 -BasePage -INFO -找到页面元素
+2019-03-22 20:54:08,680 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 20:54:08,715 -BasePage -INFO -找到页面元素
+2019-03-22 20:54:08,745 -BasePage -INFO -清除文本框成功
+2019-03-22 20:54:08,765 -BasePage -INFO -找到页面元素
+2019-03-22 20:54:08,823 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 20:54:08,855 -BasePage -INFO -找到页面元素
+2019-03-22 20:54:08,917 -BasePage -INFO -点击操作成功
+2019-03-22 20:54:09,488 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:54:10,521 -BasePage -INFO -找到页面元素
+2019-03-22 20:54:10,982 -BasePage -INFO -点击操作成功
+2019-03-22 20:54:12,019 -BasePage -INFO -找到页面元素
+2019-03-22 20:54:12,132 -BasePage -INFO -文本框成功写入文本：搭建框架
+2019-03-22 20:54:12,167 -BasePage -INFO -找到页面元素
+2019-03-22 20:54:12,274 -BasePage -INFO -文本框成功写入文本：今天学习搭建自动化测试框架
+2019-03-22 20:54:12,321 -BasePage -INFO -找到页面元素
+2019-03-22 20:54:14,282 -BasePage -INFO -点击操作成功
+2019-03-22 20:54:14,632 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:54:14,666 -BasePage -INFO -找到页面元素
+2019-03-22 20:54:14,772 -BasePage -INFO -文本框成功写入文本：好好努力，加油鸭
+2019-03-22 20:54:14,807 -BasePage -INFO -找到页面元素
+2019-03-22 20:54:15,238 -BasePage -INFO -点击操作成功
+2019-03-22 20:54:15,614 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:54:16,668 -BasePage -INFO -找到页面元素
+2019-03-22 20:54:16,912 -BasePage -INFO -点击操作成功
+2019-03-22 20:54:17,262 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:54:20,263 -BrowserEngine -INFO -现在关闭浏览器
+2019-03-22 20:54:22,453 -BrowserEngine -INFO -读取浏览器成功
+2019-03-22 20:54:22,453 -BrowserEngine -INFO -找到URL:http://127.0.0.1/forum.php
+2019-03-22 20:54:24,766 -BrowserEngine -INFO -浏览器为谷歌
+2019-03-22 20:54:25,286 -BrowserEngine -INFO -打开浏览器http://127.0.0.1/forum.php
+2019-03-22 20:54:26,454 -BasePage -INFO -找到页面元素
+2019-03-22 20:54:26,503 -BasePage -INFO -清除文本框成功
+2019-03-22 20:54:26,562 -BasePage -INFO -找到页面元素
+2019-03-22 20:54:26,631 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 20:54:26,668 -BasePage -INFO -找到页面元素
+2019-03-22 20:54:26,700 -BasePage -INFO -清除文本框成功
+2019-03-22 20:54:26,718 -BasePage -INFO -找到页面元素
+2019-03-22 20:54:26,773 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 20:54:26,808 -BasePage -INFO -找到页面元素
+2019-03-22 20:54:26,866 -BasePage -INFO -点击操作成功
+2019-03-22 20:54:27,428 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:54:39,988 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 20:54:40,321 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:54:40,321 -BasePage -ERROR -点击操作失败：'NoneType' object has no attribute 'click'
+2019-03-22 20:54:40,655 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:54:52,200 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 20:54:52,536 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:54:52,536 -BasePage -ERROR -文本框写入文本失败：'NoneType' object has no attribute 'send_keys'
+2019-03-22 20:54:52,870 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:55:03,392 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 20:55:03,733 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:55:03,733 -BasePage -ERROR -文本框写入文本失败：'NoneType' object has no attribute 'send_keys'
+2019-03-22 20:55:04,066 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:55:14,571 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 20:55:14,895 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:55:14,895 -BasePage -ERROR -文本框写入文本失败：'NoneType' object has no attribute 'send_keys'
+2019-03-22 20:55:15,228 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:55:25,778 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 20:55:26,109 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:55:26,109 -BasePage -ERROR -文本框写入文本失败：'NoneType' object has no attribute 'send_keys'
+2019-03-22 20:55:26,446 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:55:36,979 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 20:55:37,307 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:55:37,307 -BasePage -ERROR -点击操作失败：'NoneType' object has no attribute 'click'
+2019-03-22 20:55:37,643 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:55:48,168 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 20:55:48,509 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:55:48,509 -BasePage -ERROR -文本框写入文本失败：'NoneType' object has no attribute 'send_keys'
+2019-03-22 20:55:48,844 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:55:59,386 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 20:55:59,735 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:55:59,735 -BasePage -ERROR -点击操作失败：'NoneType' object has no attribute 'click'
+2019-03-22 20:56:00,100 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:56:00,434 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:56:11,983 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 20:56:12,319 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:56:12,320 -BasePage -ERROR -点击操作失败：'NoneType' object has no attribute 'click'
+2019-03-22 20:56:12,652 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:56:24,207 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 20:56:24,534 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:56:24,535 -BasePage -ERROR -点击操作失败：'NoneType' object has no attribute 'click'
+2019-03-22 20:56:24,867 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:56:36,414 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 20:56:36,769 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:56:36,769 -BasePage -ERROR -点击操作失败：'NoneType' object has no attribute 'click'
+2019-03-22 20:56:37,096 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:56:37,427 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:56:50,942 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 20:56:51,279 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 20:56:54,280 -BrowserEngine -INFO -现在关闭浏览器

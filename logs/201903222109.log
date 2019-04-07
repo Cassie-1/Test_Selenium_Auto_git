@@ -1,0 +1,84 @@
+2019-03-22 21:09:10,341 -BrowserEngine -INFO -读取浏览器成功
+2019-03-22 21:09:10,341 -BrowserEngine -INFO -找到URL:http://127.0.0.1/forum.php
+2019-03-22 21:09:12,631 -BrowserEngine -INFO -浏览器为谷歌
+2019-03-22 21:09:13,307 -BrowserEngine -INFO -打开浏览器http://127.0.0.1/forum.php
+2019-03-22 21:09:14,490 -BasePage -INFO -找到页面元素
+2019-03-22 21:09:14,538 -BasePage -INFO -清除文本框成功
+2019-03-22 21:09:14,594 -BasePage -INFO -找到页面元素
+2019-03-22 21:09:14,676 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 21:09:14,718 -BasePage -INFO -找到页面元素
+2019-03-22 21:09:14,754 -BasePage -INFO -清除文本框成功
+2019-03-22 21:09:14,774 -BasePage -INFO -找到页面元素
+2019-03-22 21:09:14,844 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 21:09:14,878 -BasePage -INFO -找到页面元素
+2019-03-22 21:09:14,937 -BasePage -INFO -点击操作成功
+2019-03-22 21:09:15,584 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:09:16,617 -BasePage -INFO -找到页面元素
+2019-03-22 21:09:17,059 -BasePage -INFO -点击操作成功
+2019-03-22 21:09:18,094 -BasePage -INFO -找到页面元素
+2019-03-22 21:09:18,153 -BasePage -INFO -点击操作成功
+2019-03-22 21:09:19,190 -BasePage -INFO -找到页面元素
+2019-03-22 21:09:19,425 -BasePage -INFO -点击操作成功
+2019-03-22 21:09:21,457 -BasePage -INFO -找到页面元素
+2019-03-22 21:09:22,112 -BasePage -INFO -点击操作成功
+2019-03-22 21:09:22,471 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:09:25,520 -BasePage -INFO -找到页面元素
+2019-03-22 21:09:25,621 -BasePage -INFO -点击操作成功
+2019-03-22 21:09:26,626 -BasePage -INFO -切换窗口成功
+2019-03-22 21:09:28,675 -BasePage -INFO -找到页面元素
+2019-03-22 21:09:28,738 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 21:09:29,772 -BasePage -INFO -找到页面元素
+2019-03-22 21:09:33,375 -BasePage -INFO -点击操作成功
+2019-03-22 21:09:34,380 -BasePage -INFO -切换窗口成功
+2019-03-22 21:09:46,943 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 21:09:47,263 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:09:47,263 -BasePage -ERROR -点击操作失败：'NoneType' object has no attribute 'click'
+2019-03-22 21:09:47,578 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:09:59,108 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 21:09:59,426 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:09:59,427 -BasePage -ERROR -清楚文本框失败：'NoneType' object has no attribute 'clear'
+2019-03-22 21:09:59,742 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:10:11,297 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 21:10:11,626 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:10:11,627 -BasePage -ERROR -文本框写入文本失败：'NoneType' object has no attribute 'send_keys'
+2019-03-22 21:10:11,941 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:10:23,453 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 21:10:23,792 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:10:23,792 -BasePage -ERROR -点击操作失败：'NoneType' object has no attribute 'click'
+2019-03-22 21:10:24,166 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:10:24,489 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:10:26,494 -BasePage -INFO -切换窗口成功
+2019-03-22 21:10:27,531 -BasePage -INFO -找到页面元素
+2019-03-22 21:10:28,530 -BasePage -INFO -点击操作成功
+2019-03-22 21:10:28,864 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:10:29,900 -BasePage -INFO -找到页面元素
+2019-03-22 21:10:30,129 -BasePage -INFO -点击操作成功
+2019-03-22 21:10:30,485 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:10:32,314 -BasePage -INFO -找到页面元素
+2019-03-22 21:10:32,355 -BasePage -INFO -清除文本框成功
+2019-03-22 21:10:32,375 -BasePage -INFO -找到页面元素
+2019-03-22 21:10:32,441 -BasePage -INFO -文本框成功写入文本：lucky 
+2019-03-22 21:10:32,476 -BasePage -INFO -找到页面元素
+2019-03-22 21:10:32,508 -BasePage -INFO -清除文本框成功
+2019-03-22 21:10:32,528 -BasePage -INFO -找到页面元素
+2019-03-22 21:10:32,591 -BasePage -INFO -文本框成功写入文本：lucky
+2019-03-22 21:10:32,622 -BasePage -INFO -找到页面元素
+2019-03-22 21:10:32,677 -BasePage -INFO -点击操作成功
+2019-03-22 21:10:33,169 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:10:36,200 -BasePage -INFO -找到页面元素
+2019-03-22 21:10:36,505 -BasePage -INFO -点击操作成功
+2019-03-22 21:10:37,539 -BasePage -INFO -找到页面元素
+2019-03-22 21:10:37,618 -BasePage -INFO -文本框成功写入文本：你好呀
+2019-03-22 21:10:37,655 -BasePage -INFO -找到页面元素
+2019-03-22 21:10:37,751 -BasePage -INFO -文本框成功写入文本：今天也要加油鸭！！！
+2019-03-22 21:10:37,783 -BasePage -INFO -找到页面元素
+2019-03-22 21:12:19,048 -BasePage -INFO -点击操作成功
+2019-03-22 21:12:20,050 -BasePage -INFO -未找到页面元素：Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+

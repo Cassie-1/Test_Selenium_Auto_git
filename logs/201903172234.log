@@ -1,0 +1,5 @@
+2019-03-17 22:34:21,864 -BrowserEngine -INFO -读取浏览器成功
+2019-03-17 22:34:21,869 -BrowserEngine -INFO -找到URL:http://127.0.0.1/forum.php
+2019-03-17 22:34:26,729 -BrowserEngine -INFO -浏览器为谷歌
+2019-03-17 22:34:28,210 -BrowserEngine -INFO -打开浏览器http://127.0.0.1/forum.php
+2019-03-17 22:34:35,261 -BasePage -INFO -未找到页面元素：'NoneType' object has no attribute 'is_displayed'

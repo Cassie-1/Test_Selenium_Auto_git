@@ -1,0 +1,196 @@
+2019-03-03 00:29:23,201 -BrowserEngine -INFO -读取浏览器成功
+2019-03-03 00:29:23,202 -BrowserEngine -INFO -找到URL:http://127.0.0.1/forum.php
+2019-03-03 00:29:26,035 -BrowserEngine -INFO -浏览器为谷歌
+2019-03-03 00:29:26,806 -BrowserEngine -INFO -打开浏览器http://127.0.0.1/forum.php
+2019-03-03 00:29:28,088 -BasePage -INFO -找到页面元素
+2019-03-03 00:29:28,160 -BasePage -INFO -清除文本框成功
+2019-03-03 00:29:28,224 -BasePage -INFO -找到页面元素
+2019-03-03 00:29:28,306 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-03 00:29:28,350 -BasePage -INFO -找到页面元素
+2019-03-03 00:29:28,388 -BasePage -INFO -清除文本框成功
+2019-03-03 00:29:28,411 -BasePage -INFO -找到页面元素
+2019-03-03 00:29:28,559 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-03 00:29:28,645 -BasePage -INFO -找到页面元素
+2019-03-03 00:29:28,796 -BasePage -INFO -点击操作成功
+2019-03-03 00:29:30,296 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:29:30,775 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:29:31,858 -BasePage -INFO -找到页面元素
+2019-03-03 00:29:32,790 -BasePage -INFO -点击操作成功
+2019-03-03 00:29:34,874 -BasePage -INFO -找到页面元素
+2019-03-03 00:29:35,750 -BasePage -INFO -点击操作成功
+2019-03-03 00:29:35,820 -BasePage -INFO -找到页面元素
+2019-03-03 00:29:36,604 -BasePage -INFO -点击操作成功
+2019-03-03 00:29:37,666 -BasePage -INFO -找到页面元素
+2019-03-03 00:29:37,885 -BasePage -INFO -文本框成功写入文本：爱听的歌曲
+2019-03-03 00:29:37,947 -BasePage -INFO -找到页面元素
+2019-03-03 00:29:38,104 -BasePage -INFO -文本框成功写入文本：光年之外
+2019-03-03 00:29:38,157 -BasePage -INFO -找到页面元素
+2019-03-03 00:29:38,256 -BasePage -INFO -文本框成功写入文本：恋人未满
+2019-03-03 00:29:38,303 -BasePage -INFO -找到页面元素
+2019-03-03 00:29:38,423 -BasePage -INFO -文本框成功写入文本：地铁等待
+2019-03-03 00:29:38,475 -BasePage -INFO -找到页面元素
+2019-03-03 00:29:38,561 -BasePage -INFO -点击操作成功
+2019-03-03 00:29:38,622 -BasePage -INFO -找到页面元素
+2019-03-03 00:29:38,766 -BasePage -INFO -文本框成功写入文本：天若有情
+2019-03-03 00:29:38,817 -BasePage -INFO -找到页面元素
+2019-03-03 00:29:38,908 -BasePage -INFO -点击操作成功
+2019-03-03 00:29:39,410 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:29:40,522 -BasePage -INFO -找到页面元素
+2019-03-03 00:29:40,670 -BasePage -INFO -点击操作成功
+2019-03-03 00:30:02,681 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:02,831 -BasePage -INFO -点击操作成功
+2019-03-03 00:30:03,913 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:05,455 -BasePage -INFO -点击操作成功
+2019-03-03 00:30:05,905 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:30:09,648 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:09,718 -BasePage -INFO -得到文本内容：爱听的歌曲
+2019-03-03 00:30:09,719 -Test_four_homepage -INFO -投票的主题是：爱听的歌曲
+2019-03-03 00:30:12,719 -BrowserEngine -INFO -现在关闭浏览器
+2019-03-03 00:30:14,918 -BrowserEngine -INFO -读取浏览器成功
+2019-03-03 00:30:14,919 -BrowserEngine -INFO -找到URL:http://127.0.0.1/forum.php
+2019-03-03 00:30:17,125 -BrowserEngine -INFO -浏览器为谷歌
+2019-03-03 00:30:17,695 -BrowserEngine -INFO -打开浏览器http://127.0.0.1/forum.php
+2019-03-03 00:30:18,870 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:18,916 -BasePage -INFO -清除文本框成功
+2019-03-03 00:30:18,943 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:19,039 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-03 00:30:19,073 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:19,106 -BasePage -INFO -清除文本框成功
+2019-03-03 00:30:19,124 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:19,183 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-03 00:30:19,213 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:19,266 -BasePage -INFO -点击操作成功
+2019-03-03 00:30:19,758 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:30:20,795 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:21,116 -BasePage -INFO -点击操作成功
+2019-03-03 00:30:22,148 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:22,226 -BasePage -INFO -文本框成功写入文本：搭建框架
+2019-03-03 00:30:22,264 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:22,399 -BasePage -INFO -文本框成功写入文本：今天学习搭建自动化测试框架
+2019-03-03 00:30:22,446 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:33,523 -BasePage -INFO -点击操作成功
+2019-03-03 00:30:33,874 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:30:33,902 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:34,010 -BasePage -INFO -文本框成功写入文本：好好努力，加油鸭
+2019-03-03 00:30:34,059 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:34,483 -BasePage -INFO -点击操作成功
+2019-03-03 00:30:34,889 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:30:35,931 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:36,357 -BasePage -INFO -点击操作成功
+2019-03-03 00:30:36,680 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:30:39,680 -BrowserEngine -INFO -现在关闭浏览器
+2019-03-03 00:30:41,891 -BrowserEngine -INFO -读取浏览器成功
+2019-03-03 00:30:41,891 -BrowserEngine -INFO -找到URL:http://127.0.0.1/forum.php
+2019-03-03 00:30:44,066 -BrowserEngine -INFO -浏览器为谷歌
+2019-03-03 00:30:44,760 -BrowserEngine -INFO -打开浏览器http://127.0.0.1/forum.php
+2019-03-03 00:30:45,936 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:45,977 -BasePage -INFO -清除文本框成功
+2019-03-03 00:30:46,023 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:46,081 -BasePage -INFO -文本框成功写入文本：lucky
+2019-03-03 00:30:46,116 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:46,142 -BasePage -INFO -清除文本框成功
+2019-03-03 00:30:46,160 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:46,229 -BasePage -INFO -文本框成功写入文本：lucky
+2019-03-03 00:30:46,262 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:46,313 -BasePage -INFO -点击操作成功
+2019-03-03 00:30:46,768 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:30:47,121 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:30:49,178 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:49,205 -BasePage -INFO -清除文本框成功
+2019-03-03 00:30:51,222 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:51,283 -BasePage -INFO -文本框成功写入文本：haotest
+2019-03-03 00:30:53,336 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:53,411 -BasePage -INFO -点击操作成功
+2019-03-03 00:30:53,821 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:30:55,845 -BasePage -INFO -切换窗口成功
+2019-03-03 00:30:57,892 -BasePage -INFO -找到页面元素
+2019-03-03 00:30:57,978 -BasePage -INFO -点击操作成功
+2019-03-03 00:30:58,336 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:30:59,354 -BasePage -INFO -切换窗口成功
+2019-03-03 00:31:11,893 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-03 00:31:12,213 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:31:12,213 -BasePage -ERROR -未得到文本：'NoneType' object has no attribute 'text'
+2019-03-03 00:31:12,631 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:31:12,950 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:31:12,980 -BasePage -INFO -切换窗口成功
+2019-03-03 00:31:13,019 -BasePage -INFO -切换窗口成功
+2019-03-03 00:31:14,088 -BasePage -INFO -找到页面元素
+2019-03-03 00:31:14,636 -BasePage -INFO -点击操作成功
+2019-03-03 00:31:14,969 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:31:18,972 -BrowserEngine -INFO -现在关闭浏览器
+2019-03-03 00:31:21,167 -BrowserEngine -INFO -读取浏览器成功
+2019-03-03 00:31:21,168 -BrowserEngine -INFO -找到URL:http://127.0.0.1/forum.php
+2019-03-03 00:31:23,427 -BrowserEngine -INFO -浏览器为谷歌
+2019-03-03 00:31:23,954 -BrowserEngine -INFO -打开浏览器http://127.0.0.1/forum.php
+2019-03-03 00:31:25,122 -BasePage -INFO -找到页面元素
+2019-03-03 00:31:25,171 -BasePage -INFO -清除文本框成功
+2019-03-03 00:31:25,226 -BasePage -INFO -找到页面元素
+2019-03-03 00:31:25,294 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-03 00:31:25,325 -BasePage -INFO -找到页面元素
+2019-03-03 00:31:25,356 -BasePage -INFO -清除文本框成功
+2019-03-03 00:31:25,374 -BasePage -INFO -找到页面元素
+2019-03-03 00:31:25,434 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-03 00:31:25,463 -BasePage -INFO -找到页面元素
+2019-03-03 00:31:25,514 -BasePage -INFO -点击操作成功
+2019-03-03 00:31:25,980 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:31:27,007 -BasePage -INFO -找到页面元素
+2019-03-03 00:31:27,303 -BasePage -INFO -点击操作成功
+2019-03-03 00:31:28,337 -BasePage -INFO -找到页面元素
+2019-03-03 00:31:28,388 -BasePage -INFO -点击操作成功
+2019-03-03 00:31:29,420 -BasePage -INFO -找到页面元素
+2019-03-03 00:31:29,647 -BasePage -INFO -点击操作成功
+2019-03-03 00:31:31,675 -BasePage -INFO -找到页面元素
+2019-03-03 00:31:32,411 -BasePage -INFO -点击操作成功
+2019-03-03 00:31:32,738 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:31:35,779 -BasePage -INFO -找到页面元素
+2019-03-03 00:31:35,869 -BasePage -INFO -点击操作成功
+2019-03-03 00:31:36,882 -BasePage -INFO -切换窗口成功
+2019-03-03 00:31:38,950 -BasePage -INFO -找到页面元素
+2019-03-03 00:31:39,003 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-03 00:31:40,039 -BasePage -INFO -找到页面元素
+2019-03-03 00:32:08,243 -BasePage -INFO -点击操作成功
+2019-03-03 00:32:09,290 -BasePage -INFO -找到页面元素
+2019-03-03 00:32:09,518 -BasePage -INFO -点击操作成功
+2019-03-03 00:32:10,530 -BasePage -INFO -切换窗口成功
+2019-03-03 00:32:12,605 -BasePage -INFO -找到页面元素
+2019-03-03 00:32:12,721 -BasePage -INFO -点击操作成功
+2019-03-03 00:32:13,775 -BasePage -INFO -找到页面元素
+2019-03-03 00:32:13,808 -BasePage -INFO -清除文本框成功
+2019-03-03 00:32:14,853 -BasePage -INFO -找到页面元素
+2019-03-03 00:32:14,976 -BasePage -INFO -文本框成功写入文本：自动化测试
+2019-03-03 00:32:16,002 -BasePage -INFO -找到页面元素
+2019-03-03 00:32:16,259 -BasePage -INFO -点击操作成功
+2019-03-03 00:32:16,588 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:32:18,600 -BasePage -INFO -切换窗口成功
+2019-03-03 00:32:19,645 -BasePage -INFO -找到页面元素
+2019-03-03 00:32:20,106 -BasePage -INFO -点击操作成功
+2019-03-03 00:32:20,434 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:32:22,487 -BasePage -INFO -找到页面元素
+2019-03-03 00:32:22,687 -BasePage -INFO -点击操作成功
+2019-03-03 00:32:23,027 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:32:26,065 -BasePage -INFO -找到页面元素
+2019-03-03 00:32:26,105 -BasePage -INFO -清除文本框成功
+2019-03-03 00:32:26,123 -BasePage -INFO -找到页面元素
+2019-03-03 00:32:26,187 -BasePage -INFO -文本框成功写入文本：lucky 
+2019-03-03 00:32:26,222 -BasePage -INFO -找到页面元素
+2019-03-03 00:32:26,250 -BasePage -INFO -清除文本框成功
+2019-03-03 00:32:26,265 -BasePage -INFO -找到页面元素
+2019-03-03 00:32:26,326 -BasePage -INFO -文本框成功写入文本：lucky
+2019-03-03 00:32:26,356 -BasePage -INFO -找到页面元素
+2019-03-03 00:32:26,408 -BasePage -INFO -点击操作成功
+2019-03-03 00:32:26,969 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:32:30,021 -BasePage -INFO -找到页面元素
+2019-03-03 00:32:30,388 -BasePage -INFO -点击操作成功
+2019-03-03 00:32:31,446 -BasePage -INFO -找到页面元素
+2019-03-03 00:32:31,510 -BasePage -INFO -文本框成功写入文本：你好呀
+2019-03-03 00:32:31,539 -BasePage -INFO -找到页面元素
+2019-03-03 00:32:31,616 -BasePage -INFO -文本框成功写入文本：今天也要加油鸭！！！
+2019-03-03 00:32:31,647 -BasePage -INFO -找到页面元素
+2019-03-03 00:32:33,334 -BasePage -INFO -点击操作成功
+2019-03-03 00:32:34,373 -BasePage -INFO -找到页面元素
+2019-03-03 00:32:34,473 -BasePage -INFO -文本框成功写入文本：是的呀,加油鸭，加油鸭
+2019-03-03 00:32:34,503 -BasePage -INFO -找到页面元素
+2019-03-03 00:32:34,700 -BasePage -INFO -点击操作成功
+2019-03-03 00:32:35,044 -BasePage -INFO -截图保存到 /screenshots
+2019-03-03 00:32:38,044 -BrowserEngine -INFO -现在关闭浏览器

@@ -1,0 +1,50 @@
+2019-03-22 19:17:12,546 -BrowserEngine -INFO -读取浏览器成功
+2019-03-22 19:17:12,550 -BrowserEngine -INFO -找到URL:http://127.0.0.1/forum.php
+2019-03-22 19:17:16,892 -BrowserEngine -INFO -浏览器为谷歌
+2019-03-22 19:17:18,788 -BrowserEngine -INFO -打开浏览器http://127.0.0.1/forum.php
+2019-03-22 19:17:20,226 -BasePage -INFO -找到页面元素
+2019-03-22 19:17:20,375 -BasePage -INFO -清除文本框成功
+2019-03-22 19:17:20,480 -BasePage -INFO -找到页面元素
+2019-03-22 19:17:20,704 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 19:17:20,791 -BasePage -INFO -找到页面元素
+2019-03-22 19:17:20,921 -BasePage -INFO -清除文本框成功
+2019-03-22 19:17:20,976 -BasePage -INFO -找到页面元素
+2019-03-22 19:17:21,153 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 19:17:21,220 -BasePage -INFO -找到页面元素
+2019-03-22 19:17:21,327 -BasePage -INFO -点击操作成功
+2019-03-22 19:17:23,705 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 19:17:24,138 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 19:17:25,247 -BasePage -INFO -找到页面元素
+2019-03-22 19:17:26,529 -BasePage -INFO -点击操作成功
+2019-03-22 19:17:28,606 -BasePage -INFO -找到页面元素
+2019-03-22 19:17:30,013 -BasePage -INFO -点击操作成功
+2019-03-22 19:17:30,165 -BasePage -INFO -找到页面元素
+2019-03-22 19:17:31,539 -BasePage -INFO -点击操作成功
+2019-03-22 19:17:32,685 -BasePage -INFO -找到页面元素
+2019-03-22 19:17:33,092 -BasePage -INFO -文本框成功写入文本：爱听的歌曲
+2019-03-22 19:17:33,209 -BasePage -INFO -找到页面元素
+2019-03-22 19:17:33,493 -BasePage -INFO -文本框成功写入文本：光年之外
+2019-03-22 19:17:33,626 -BasePage -INFO -找到页面元素
+2019-03-22 19:17:33,886 -BasePage -INFO -文本框成功写入文本：恋人未满
+2019-03-22 19:17:33,956 -BasePage -INFO -找到页面元素
+2019-03-22 19:17:34,180 -BasePage -INFO -文本框成功写入文本：地铁等待
+2019-03-22 19:17:34,268 -BasePage -INFO -找到页面元素
+2019-03-22 19:17:34,454 -BasePage -INFO -点击操作成功
+2019-03-22 19:17:34,631 -BasePage -INFO -找到页面元素
+2019-03-22 19:17:35,005 -BasePage -INFO -文本框成功写入文本：天若有情
+2019-03-22 19:17:35,120 -BasePage -INFO -找到页面元素
+2019-03-22 19:17:35,341 -BasePage -INFO -点击操作成功
+2019-03-22 19:17:35,798 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 19:17:36,858 -BasePage -INFO -找到页面元素
+2019-03-22 19:17:37,179 -BasePage -INFO -点击操作成功
+2019-03-22 19:17:47,160 -BasePage -INFO -找到页面元素
+2019-03-22 19:17:47,293 -BasePage -INFO -点击操作成功
+2019-03-22 19:17:48,353 -BasePage -INFO -找到页面元素
+2019-03-22 19:18:14,146 -BasePage -INFO -点击操作成功
+2019-03-22 19:18:14,601 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 19:18:18,157 -BasePage -INFO -找到页面元素
+2019-03-22 19:18:18,219 -BasePage -INFO -得到文本内容：爱听的歌曲
+2019-03-22 19:18:18,220 -Test_four_homepage -INFO -投票的主题是：爱听的歌曲
+2019-03-22 19:18:21,222 -BrowserEngine -INFO -现在关闭浏览器
+2019-03-22 19:18:24,978 -BrowserEngine -INFO -读取浏览器成功
+2019-03-22 19:18:24,979 -BrowserEngine -INFO -找到URL:http://127.0.0.1/forum.php

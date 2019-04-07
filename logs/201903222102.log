@@ -1,0 +1,144 @@
+2019-03-22 21:02:42,522 -BrowserEngine -INFO -读取浏览器成功
+2019-03-22 21:02:42,522 -BrowserEngine -INFO -找到URL:http://127.0.0.1/forum.php
+2019-03-22 21:02:44,342 -BrowserEngine -INFO -浏览器为谷歌
+2019-03-22 21:02:45,005 -BrowserEngine -INFO -打开浏览器http://127.0.0.1/forum.php
+2019-03-22 21:02:46,180 -BasePage -INFO -找到页面元素
+2019-03-22 21:02:46,225 -BasePage -INFO -清除文本框成功
+2019-03-22 21:02:46,281 -BasePage -INFO -找到页面元素
+2019-03-22 21:02:46,357 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 21:02:46,397 -BasePage -INFO -找到页面元素
+2019-03-22 21:02:46,431 -BasePage -INFO -清除文本框成功
+2019-03-22 21:02:46,450 -BasePage -INFO -找到页面元素
+2019-03-22 21:02:46,510 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 21:02:46,558 -BasePage -INFO -找到页面元素
+2019-03-22 21:02:46,618 -BasePage -INFO -点击操作成功
+2019-03-22 21:02:47,178 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:02:48,212 -BasePage -INFO -找到页面元素
+2019-03-22 21:02:48,600 -BasePage -INFO -点击操作成功
+2019-03-22 21:02:49,636 -BasePage -INFO -找到页面元素
+2019-03-22 21:02:49,698 -BasePage -INFO -点击操作成功
+2019-03-22 21:02:50,733 -BasePage -INFO -找到页面元素
+2019-03-22 21:02:51,147 -BasePage -INFO -点击操作成功
+2019-03-22 21:02:53,179 -BasePage -INFO -找到页面元素
+2019-03-22 21:02:54,010 -BasePage -INFO -点击操作成功
+2019-03-22 21:02:54,405 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:03:07,951 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 21:03:08,291 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:03:08,291 -BasePage -ERROR -文本框写入文本失败：'NoneType' object has no attribute 'send_keys'
+2019-03-22 21:03:08,624 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:03:20,149 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 21:03:20,529 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:03:20,529 -BasePage -ERROR -点击操作失败：'NoneType' object has no attribute 'click'
+2019-03-22 21:03:20,873 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:03:21,879 -BasePage -INFO -切换窗口成功
+2019-03-22 21:03:24,886 -BrowserEngine -INFO -现在关闭浏览器
+2019-03-22 21:03:27,133 -BrowserEngine -INFO -读取浏览器成功
+2019-03-22 21:03:27,134 -BrowserEngine -INFO -找到URL:http://127.0.0.1/forum.php
+2019-03-22 21:03:29,519 -BrowserEngine -INFO -浏览器为谷歌
+2019-03-22 21:03:30,210 -BrowserEngine -INFO -打开浏览器http://127.0.0.1/forum.php
+2019-03-22 21:03:31,377 -BasePage -INFO -找到页面元素
+2019-03-22 21:03:31,420 -BasePage -INFO -清除文本框成功
+2019-03-22 21:03:31,440 -BasePage -INFO -找到页面元素
+2019-03-22 21:03:31,510 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 21:03:31,545 -BasePage -INFO -找到页面元素
+2019-03-22 21:03:31,574 -BasePage -INFO -清除文本框成功
+2019-03-22 21:03:31,594 -BasePage -INFO -找到页面元素
+2019-03-22 21:03:31,663 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 21:03:31,701 -BasePage -INFO -找到页面元素
+2019-03-22 21:03:31,761 -BasePage -INFO -点击操作成功
+2019-03-22 21:03:32,373 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:03:32,424 -BasePage -INFO -找到页面元素
+2019-03-22 21:03:32,482 -BasePage -INFO -清除文本框成功
+2019-03-22 21:03:34,501 -BasePage -INFO -找到页面元素
+2019-03-22 21:03:34,610 -BasePage -INFO -文本框成功写入文本：haotest
+2019-03-22 21:03:36,644 -BasePage -INFO -找到页面元素
+2019-03-22 21:03:36,731 -BasePage -INFO -点击操作成功
+2019-03-22 21:03:37,127 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:03:39,142 -BasePage -INFO -切换窗口成功
+2019-03-22 21:03:41,195 -BasePage -INFO -找到页面元素
+2019-03-22 21:03:41,282 -BasePage -INFO -点击操作成功
+2019-03-22 21:03:41,638 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:03:42,657 -BasePage -INFO -切换窗口成功
+2019-03-22 21:03:55,231 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 21:03:55,551 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:03:55,552 -BasePage -ERROR -未得到文本：'NoneType' object has no attribute 'text'
+2019-03-22 21:03:55,882 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:03:56,228 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:03:57,278 -BasePage -INFO -找到页面元素
+2019-03-22 21:03:57,534 -BasePage -INFO -点击操作成功
+2019-03-22 21:03:57,881 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:04:00,882 -BrowserEngine -INFO -现在关闭浏览器
+2019-03-22 21:04:03,083 -BrowserEngine -INFO -读取浏览器成功
+2019-03-22 21:04:03,083 -BrowserEngine -INFO -找到URL:http://127.0.0.1/forum.php
+2019-03-22 21:04:05,325 -BrowserEngine -INFO -浏览器为谷歌
+2019-03-22 21:04:05,843 -BrowserEngine -INFO -打开浏览器http://127.0.0.1/forum.php
+2019-03-22 21:04:07,017 -BasePage -INFO -找到页面元素
+2019-03-22 21:04:07,068 -BasePage -INFO -清除文本框成功
+2019-03-22 21:04:07,118 -BasePage -INFO -找到页面元素
+2019-03-22 21:04:07,191 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 21:04:07,231 -BasePage -INFO -找到页面元素
+2019-03-22 21:04:07,264 -BasePage -INFO -清除文本框成功
+2019-03-22 21:04:07,284 -BasePage -INFO -找到页面元素
+2019-03-22 21:04:07,345 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 21:04:07,378 -BasePage -INFO -找到页面元素
+2019-03-22 21:04:07,437 -BasePage -INFO -点击操作成功
+2019-03-22 21:04:07,981 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:04:09,013 -BasePage -INFO -找到页面元素
+2019-03-22 21:04:09,407 -BasePage -INFO -点击操作成功
+2019-03-22 21:04:10,441 -BasePage -INFO -找到页面元素
+2019-03-22 21:04:10,533 -BasePage -INFO -文本框成功写入文本：搭建框架
+2019-03-22 21:04:10,571 -BasePage -INFO -找到页面元素
+2019-03-22 21:04:10,735 -BasePage -INFO -文本框成功写入文本：今天学习搭建自动化测试框架
+2019-03-22 21:04:10,777 -BasePage -INFO -找到页面元素
+2019-03-22 21:04:22,186 -BasePage -INFO -点击操作成功
+2019-03-22 21:04:22,554 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:04:22,587 -BasePage -INFO -找到页面元素
+2019-03-22 21:04:22,719 -BasePage -INFO -文本框成功写入文本：好好努力，加油鸭
+2019-03-22 21:04:22,753 -BasePage -INFO -找到页面元素
+2019-03-22 21:04:23,097 -BasePage -INFO -点击操作成功
+2019-03-22 21:04:23,484 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:04:24,532 -BasePage -INFO -找到页面元素
+2019-03-22 21:04:24,790 -BasePage -INFO -点击操作成功
+2019-03-22 21:04:25,160 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:04:28,161 -BrowserEngine -INFO -现在关闭浏览器
+2019-03-22 21:04:30,364 -BrowserEngine -INFO -读取浏览器成功
+2019-03-22 21:04:30,364 -BrowserEngine -INFO -找到URL:http://127.0.0.1/forum.php
+2019-03-22 21:04:32,599 -BrowserEngine -INFO -浏览器为谷歌
+2019-03-22 21:04:33,089 -BrowserEngine -INFO -打开浏览器http://127.0.0.1/forum.php
+2019-03-22 21:04:34,262 -BasePage -INFO -找到页面元素
+2019-03-22 21:04:34,309 -BasePage -INFO -清除文本框成功
+2019-03-22 21:04:34,330 -BasePage -INFO -找到页面元素
+2019-03-22 21:04:34,442 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 21:04:34,486 -BasePage -INFO -找到页面元素
+2019-03-22 21:04:34,519 -BasePage -INFO -清除文本框成功
+2019-03-22 21:04:34,540 -BasePage -INFO -找到页面元素
+2019-03-22 21:04:34,599 -BasePage -INFO -文本框成功写入文本：admin
+2019-03-22 21:04:34,632 -BasePage -INFO -找到页面元素
+2019-03-22 21:04:34,692 -BasePage -INFO -点击操作成功
+2019-03-22 21:04:35,250 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:04:36,282 -BasePage -INFO -找到页面元素
+2019-03-22 21:04:36,702 -BasePage -INFO -点击操作成功
+2019-03-22 21:04:49,246 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 21:04:49,592 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:04:49,592 -BasePage -ERROR -点击操作失败：'NoneType' object has no attribute 'click'
+2019-03-22 21:04:49,943 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:05:01,473 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 21:05:01,892 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:05:01,892 -BasePage -ERROR -文本框写入文本失败：'NoneType' object has no attribute 'send_keys'
+2019-03-22 21:05:02,274 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:05:12,818 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 21:05:13,201 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:05:13,201 -BasePage -ERROR -文本框写入文本失败：'NoneType' object has no attribute 'send_keys'
+2019-03-22 21:05:13,582 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:05:24,142 -BasePage -INFO -未找到页面元素：Message: 
+
+2019-03-22 21:05:24,598 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:05:24,599 -BasePage -ERROR -文本框写入文本失败：'NoneType' object has no attribute 'send_keys'
+2019-03-22 21:05:24,947 -BasePage -INFO -截图保存到 /screenshots
+2019-03-22 21:05:28,106 -BasePage -INFO -未找到页面元素：'NoneType' object has no attribute 'is_displayed'
